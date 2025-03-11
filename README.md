@@ -1,9 +1,56 @@
+# پروژه سوالات تستی Next.js
 
-  <div align="center" width="350px">  <img src="https://github.com/hoseinrashidi-urmavi/Quiz-App/blob/master/quizapp.png"  width="350" height="350"/>
-  <p >"Hi, in this project, I've created a small quiz question project. This project is developed with Next.js. To use and see the code, after cloning, type the command <strong>npm i</strong> in the terminal to install the dependencies. After installing the dependencies, use the command <strong> npm run dev </strong> to run the project."</p>
-    <p>سلام، در این پروژه، من یک پروژه کوچک برای سوالات تستی ایجاد کرده‌ام. این پروژه با Next.js توسعه داده شده است. برای استفاده و دیدن کدها، بعد از کلون کردن، دستور npm i را در ترمینال تایپ کنید تا وابستگی‌ها نصب شوند. بعد از نصب وابستگی‌ها، از دستور npm run dev برای اجرای پروژه استفاده کنید.</p>
-  </div>
+<img src="https://github.com/hoseinrashidi-urmavi/Quiz-App/blob/master/quizapp.png" width="200">
 
+سلام، در این پروژه، من یک پروژه کوچک برای سوالات تستی ایجاد کرده‌ام. این پروژه با Next.js توسعه داده شده است.
+
+## نحوه استفاده
+
+برای استفاده و دیدن کدها، مراحل زیر را دنبال کنید:
+
+1.  ابتدا پروژه را کلون کنید:
+
+    ```bash
+    git clone [لینک_پروژه_شما]
+    ```
+
+2.  به دایرکتوری پروژه بروید:
+
+    ```bash
+    cd 
+    ```
+
+3.  وابستگی‌ها را نصب کنید:
+
+    ```bash
+    npm install
+    ```
+
+4.  پروژه را اجرا کنید:
+
+    ```bash
+    npm run dev
+    ```
+
+5.  در مرورگر خود به آدرس `http://localhost:3000` بروید.
+
+## توضیحات
+
+این پروژه یک مثال ساده از نحوه ایجاد یک برنامه با Next.js است. در این پروژه، شما می‌توانید سوالات تستی را مشاهده و به آنها پاسخ دهید.
+
+## مشارکت
+
+اگر تمایل به مشارکت در این پروژه دارید، می‌توانید تغییرات خود را به صورت Pull Request ارسال کنید.
+
+## لایسنس
+
+این پروژه تحت لایسنس MIT منتشر شده است.
+
+## اطلاعات بیشتر
+
+برای اطلاعات بیشتر در مورد Next.js، می‌توانید به وب‌سایت رسمی آن مراجعه کنید:
+
+[https://nextjs.org/](https://nextjs.org/)
 
 
 
