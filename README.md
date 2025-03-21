@@ -51,10 +51,7 @@
 **English:** If you would like to contribute to this project, you can submit your changes as a Pull Request.
 **فارسی:** اگر تمایل به مشارکت در این پروژه دارید، می‌توانید تغییرات خود را به صورت Pull Request ارسال کنید.
 
-## License / لایسنس
 
-**English:** This project is licensed under the MIT License.
-**فارسی:** این پروژه تحت لایسنس MIT منتشر شده است.
 
 ## Learn More / اطلاعات بیشتر
 
