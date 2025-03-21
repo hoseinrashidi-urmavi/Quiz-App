@@ -14,14 +14,14 @@
     **فارسی:** ابتدا پروژه را کلون کنید:
 
     ```bash
-    git clone [لینک_پروژه_شما]
+    git clone 
     ```
 
 2.  **English:** Navigate to the project directory:
     **فارسی:** به دایرکتوری پروژه بروید:
 
     ```bash
-    cd [نام_پروژه_شما]
+    cd [پوشه-پروژه]
     ```
 
 3.  **English:** Install dependencies:
